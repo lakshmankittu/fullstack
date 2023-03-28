@@ -1,0 +1,26 @@
+.Login{
+    padding: 30px;
+}
+button{
+    margin-left:160px;
+    width: 70px;
+    height: 40px;
+    border-radius: 5px;
+    
+}
+h3{
+   background: #1382a7;
+   padding: 20px;
+   text-align: center;
+   color: #ffffff;
+   font-size: 20px;
+   font-family: monospace;
+}
+input{
+    align-items: center;
+    width:300px;
+    height: 40px;
+    margin-left: 30px;
+    text-align: center;
+    border-radius: 25px;
+}
